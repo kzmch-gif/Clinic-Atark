@@ -56,7 +56,7 @@ export default function Main() {
             <div className="container">
                 <div className="row rowmain">
                     <div className="col-md-6">
-                        <h1 className="onlinemain _anim-items">Онлайн тест на COVID-19 в “IO.CLINIC”</h1>
+                        <h1 className="onlinemain _anim-items">!Онлайн тест на COVID-19 в “IO.CLINIC”</h1>
                         <h4 className="knowmain _anim-items">Узнайте, есть ли у вас коронавирусная инфекция в организме</h4>
                     </div>
                     <div className="col-md-6">
