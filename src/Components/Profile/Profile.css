@@ -1,0 +1,142 @@
+ .h1usercab {
+     color: #0D378C;
+     font-family: 'M PLUS 1p', sans-serif !important;
+ }
+
+ .userpic {
+     width: 75px;
+     padding: 0;
+ }
+
+ .username {
+     width: 100px;
+     color: #02897A;
+     font-family: 'M PLUS 1p', sans-serif !important;
+ }
+
+ .rowusername {
+     align-items: center;
+ }
+
+ .btn-change-profile {
+     font-family: 'M PLUS 1p', sans-serif !important;
+     background-color: #02897A;
+     border-color: #02897A;
+     color: white;
+     transition: 0.5s ease-in-out;
+     border-radius: 10px;
+     margin-left: auto;
+     width: 230px !important;
+
+ }
+
+ .btn-change-profile:hover {
+     background-color: #fff;
+     color: #02897A;
+ }
+
+ .coronatest {
+     border: 1px solid #0D378C;
+     padding: 60px 50px;
+     width: 275px;
+     text-align: center;
+     height: 150px;
+     border-radius: 10px;
+     margin-top: 15px;
+     color: rgb(0, 0, 0);
+     font-weight: 600;
+     font-size: 18px;
+     font-family: 'M PLUS 1p', sans-serif !important;
+     background-image: url(./back-corona.jpg);
+     background-size: 100%;
+     transition: 0.5s ease-in-out;
+     background-position: center;
+ }
+
+ .coronatest:hover {
+     background-size: 120%;
+     background-position: center;
+ }
+
+ 
+ .lungstest {
+    border: 1px solid #0D378C;
+    padding: 60px 50px;
+    width: 275px;
+    text-align: center;
+    height: 150px;
+    border-radius: 10px;
+    margin-top: 15px;
+    color: white;
+    font-weight: 600;
+    font-size: 18px;
+    font-family: 'M PLUS 1p', sans-serif !important;
+    background-image: url(./lungs.jpg);
+    background-size: 100%;
+    transition: 0.5s ease-in-out;
+    background-position: center;
+}
+
+.lungstest:hover {
+    background-size: 120%;
+    background-position: center;
+}
+
+
+.eyestest {
+    border: 1px solid #0D378C;
+    padding: 60px 50px;
+    width: 275px;
+    text-align: center;
+    height: 150px;
+    border-radius: 10px;
+    margin-top: 15px;
+    color: black;
+    font-weight: 600;
+    font-size: 18px;
+    font-family: 'M PLUS 1p', sans-serif !important;
+    background-image: url(./eyes.jpg);
+    background-size: 100%;
+    transition: 0.5s ease-in-out;
+    background-position: center;
+}
+
+.eyestest:hover {
+    background-size: 120%;
+    background-position: center;
+}
+
+
+
+.earstest {
+    border: 1px solid #0D378C;
+    padding: 60px 50px;
+    width: 275px;
+    text-align: center;
+    height: 150px;
+    border-radius: 10px;
+    margin-top: 15px;
+    color: black;
+    font-weight: 600;
+    font-size: 18px;
+    font-family: 'M PLUS 1p', sans-serif !important;
+    background-image: url(./ears.jpg);
+    background-size: 100%;
+    transition: 0.5s ease-in-out;
+    background-position: center;
+}
+
+.earstest:hover {
+    background-size: 120%;
+    background-position: center;
+}
+
+.yourtesth3{
+    color: #0D378C;
+    font-family: 'M PLUS 1p', sans-serif !important;
+}
+
+.h6result{
+    color: #0D378C;
+    font-family: 'M PLUS 1p', sans-serif !important;
+}

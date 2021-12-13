@@ -1,0 +1,46 @@
+.form-regist{
+    text-align: -webkit-center;
+}
+
+.check-remember{
+    text-align: left;
+    margin-top: 15px;
+}
+
+.btn-registr{
+
+}
+
+.year{
+    text-align: left;
+    width: 50%;
+}
+
+.h6textinput{
+    text-align: left;
+}
+
+.h2hello{
+    font-family: 'M PLUS 1p', sans-serif !important;
+    color: #0D378C;
+}
+
+.h6textinput{
+    color: #0D378C;
+    font-family: 'M PLUS 1p', sans-serif !important;
+}
+
+.pleaseh6{
+    font-family: 'M PLUS 1p', sans-serif !important;
+}
+
+.btn-registr{
+    font-family: 'M PLUS 1p', sans-serif !important;
+    background-color: #02897A;
+    border-color: #02897A;
+    transition: 0.5s ease-in-out;
+}
+
+.btn-registr:hover{
+    background-color: #0D378C;
+}

@@ -1,0 +1,56 @@
+.h1change{
+    font-family: 'M PLUS 1p', sans-serif !important;
+    color: #0D378C;
+}
+
+.h3personal{
+    font-family: 'M PLUS 1p', sans-serif !important;
+    color: #0D378C;
+}
+
+.changeh3{
+    color: #80808075;
+    font-size: 15px;
+}
+
+.inputname{
+    margin-right: 25px;
+    width: 300px;
+    height: 30px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #02897A;
+    font-family: 'M PLUS 1p', sans-serif !important;
+    font-size: 15px;
+}
+
+.nameh6{
+    font-family: 'M PLUS 1p', sans-serif !important;
+    color:#02897A;
+    width: 150px;
+}
+
+.btn_success{
+    margin-left: auto;
+    width: 180px;
+    margin-right: 90px;
+}
+
+.btnsave{
+    background-color: #0D378C;
+    color: white;
+    font-family: 'M PLUS 1p', sans-serif !important;
+    padding: 0;
+    border-radius: 10px;
+    transition: 0.5s;
+    text-align: center;
+    border: none;
+    width: 215px;
+    height: 35px;
+}
+
+.btnsave:hover{
+    color:#0D378C;
+    background-color:  white;
+    border: 1px solid #0D378C;
+}

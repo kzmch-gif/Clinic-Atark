@@ -1,0 +1,47 @@
+.hello{
+    font-family: 'M PLUS 1p', sans-serif;
+}
+
+.heartbeat{
+    width: 37px;
+    height: 32px;
+}
+
+.io-logo{
+    font-family: 'M PLUS 1p', sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    color: #0D378C;
+    transition: 0.5s;
+}
+.io-logo:hover{
+    color:#02897A !important;
+}
+
+.btn_login{
+    width: 180px;
+    height: 35px;
+    background-color: #02897A;
+    color: white;
+    font-family: 'M PLUS 1p', sans-serif !important;
+    padding: 0;
+    border-radius: 10px;
+    transition: 0.5s;
+    padding-top: 4px;
+}
+
+.btn_login:hover{
+    color:#02897A;
+    background-color:  white;
+    border: 1px solid #02897A;
+}
+
+li .nav-link{
+    font-family: 'M PLUS 1p', sans-serif;
+    color: #0D378C !important;
+}
+
+.nav-link:hover{
+    color:#02897A !important;
+}
+

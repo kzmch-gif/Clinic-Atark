@@ -1,0 +1,77 @@
+.rowcorona {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(-1 * var(--bs-gutter-y));
+    margin-right: calc(-.5 * var(--bs-gutter-x));
+    margin-left: calc(-.5 * var(--bs-gutter-x));
+    align-items: center;
+}
+
+.h1test{
+    color: #0D378C;
+    font-family: 'M PLUS 1p', sans-serif !important;
+    margin-bottom: 15px;
+}
+
+.h4be{
+    color: #0D378C;
+    font-family: 'M PLUS 1p', sans-serif !important;
+    font-size: 22px;
+    line-height: 32px;
+}
+
+.btnstart{
+    width: 250px;
+    height: 35px;
+    background-color: #02897A;
+    color: white;
+    font-family: 'M PLUS 1p', sans-serif !important;
+    padding: 0;
+    border-radius: 10px;
+    transition: 0.5s;
+   text-align: center;
+   border: none;
+   margin-top: 25px;
+}
+
+.btnstart:hover{
+    color:#02897A;
+    background-color:  white;
+    border: 1px solid #02897A;
+}
+
+.pictip1{
+    width: 100px;
+}
+
+.h6wash{
+    text-align: left;
+    font-size: 22px;
+    font-family: 'M PLUS 1p', sans-serif !important;
+    color:#0D378C;
+}
+
+.pwash{
+    width: 450px;
+    text-align: left;
+    font-family: 'M PLUS 1p', sans-serif !important;
+    color:#0D378C;
+    font-size: 17px;
+}
+
+.h5score{
+    font-family: 'M PLUS 1p', sans-serif !important;
+    color:#0D378C;
+}
+
+.textunswer{
+    font-family: 'M PLUS 1p', sans-serif !important;
+ 
+}
+
+.li{
+    list-style: circle;
+    font-size: 40px;
+}
